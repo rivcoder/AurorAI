@@ -51,7 +51,7 @@ Shows empathy, reasoning, and proper conversational flow.
 ### AI-Generated Technical Notes
 Demonstrates structured notes on API integration and web concepts.
 
-![API Notes](screenshots/aurorai-notes.png)
+![API Notes](screenshots/aurora-notes.png)
 
 ---
 
